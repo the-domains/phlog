@@ -1,0 +1,14 @@
+layout_spectrum: 0.4928315
+color:
+  saturation: 0.9301075
+  brandStrength: 0.4749104
+  lightness: 0.374552
+  brandColors:
+    - '#272727'
+    - '#FFFFFF'
+    - '#AFAFAF'
+    - '#6A6A6A'
+    - '#8F8F8F'
+  rhythmicContrast: 1
+typography_spectrum: 0.3064516
+name: Phlog
