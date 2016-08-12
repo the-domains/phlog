@@ -1,14 +1,26 @@
-layout_spectrum: 0.4928315
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3064516
 color:
   saturation: 0.9301075
   brandStrength: 0.4749104
-  lightness: 0.374552
+  rhythmicContrast: 1
   brandColors:
     - '#272727'
     - '#FFFFFF'
     - '#AFAFAF'
     - '#6A6A6A'
     - '#8F8F8F'
-  rhythmicContrast: 1
-typography_spectrum: 0.3064516
+  lightness: 0.374552
+layout_spectrum: 0.3189964
 name: Phlog
